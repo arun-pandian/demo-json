@@ -96,7 +96,13 @@
         "offerPrice": 500,
         "sku": "123",
         "barcode": null,
-        "images": [],
+        "images": [
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/1.jpg",
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/2.jpg",
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/3.jpg",
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/4.jpg",
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/5.jpg"
+        ],
         "status": true,
         "createdAt": "2022-11-19T13:29:33.715Z",
         "updatedAt": "2022-11-19T13:29:33.715Z"
@@ -113,7 +119,14 @@
         "offerPrice": 500,
         "sku": "123",
         "barcode": null,
-        "images": [],
+        "images": [
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/6.jpg",
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/7.jpg",
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/8.jpg",
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/9.jpg",
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/10.jpg",
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/11.jpg"
+        ],
         "status": true,
         "createdAt": "2022-11-19T13:29:33.715Z",
         "updatedAt": "2022-11-19T13:29:33.715Z"
@@ -130,7 +143,12 @@
         "offerPrice": 500,
         "sku": "123",
         "barcode": null,
-        "images": [],
+        "images": [
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/12.jpg",
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/13.jpg",
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/14.jpg",
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/15.jpg"
+        ],
         "status": true,
         "createdAt": "2022-11-19T13:29:33.715Z",
         "updatedAt": "2022-11-19T13:29:33.715Z"
@@ -147,7 +165,10 @@
         "offerPrice": 500,
         "sku": "123",
         "barcode": null,
-        "images": [],
+        "images": [
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/7.jpg",
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/8.jpg"
+        ],
         "status": true,
         "createdAt": "2022-11-19T13:29:33.715Z",
         "updatedAt": "2022-11-19T13:29:33.715Z"
@@ -164,7 +185,10 @@
         "offerPrice": 500,
         "sku": "123",
         "barcode": null,
-        "images": [],
+        "images": [
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/9.jpg",
+          "https://raw.githubusercontent.com/arun-pandian/demo-json/main/10.jpg"
+        ],
         "status": true,
         "createdAt": "2022-11-19T13:29:33.715Z",
         "updatedAt": "2022-11-19T13:29:33.715Z"
